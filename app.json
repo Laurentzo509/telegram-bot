@@ -1,7 +1,7 @@
 {
     "name": "telegram-md",
-    "description": "Gifted-Md, A simple Telegram user bot Created by Gifted Tech",
-    "logo": "https://github.com/mouricedevs.png",
+    "description": "KAISEN-Md, A simple Telegram user bot Created by Gifted Tech",
+    "logo": "https://www.imghippo.com/i/JNeK5753np.png",
     "repository": "https://github.com/mouricedevs/telegram-bot",
     "keywords": ["whatsappbot", "Gifted Tech", "GIFTED MD", "GIFTED TECH 𝙈𝘿", "GIFTEDMdWhatsaooBot", "GIFTEDMDWaBot","GIFTED","GIFTED TECH Md Whatsapp Bot","multi device"],
     "success_url": "/", 
@@ -14,7 +14,7 @@
       },
       "MESSAGE": {
         "description": "bot connection conformation message",
-        "value": "✅ᴄᴏɴɴᴇᴄᴛᴇᴅ✅ [ 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 ]",
+        "value": "✅ᴄᴏɴɴᴇᴄᴛᴇᴅ✅ [ YOU'VE CHOSEN KAISEN MD ]",
         "required": false 
       }
     }   
